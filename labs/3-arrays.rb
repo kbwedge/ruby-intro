@@ -15,7 +15,7 @@ my_list = ["milk", "eggs", "bacon"]
 friend_list = ["beer","cookies","apples", "milk"]
 
 combined_list = my_list + friend_list
-puts combined_list.sort.uniq
+puts combined_list.sort.uniq #sort alphabetically and remove duplicate values
 
 
 # HINTS
